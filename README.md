@@ -7,6 +7,8 @@
 
 ### - The one scrapped by me is the first table (image down below), regarding the development of andriod versions over time.
 
+<img src = "source.png" />
+
 ------------------------------------------------------------------------------------
 
 ## Practice : Most_popular_websites data aquisition.
@@ -18,3 +20,5 @@
 ### All the data has been taken from - [https://en.wikipedia.org/wiki/List_of_most_popular_websites].
 
 ### *Conclusions : GOOGLE always leads the Show!! :D
+
+<img src = "most_pop_websites.png" />
